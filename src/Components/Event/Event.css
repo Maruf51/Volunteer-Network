@@ -1,0 +1,39 @@
+.eventImage {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.event-block {
+    display: flex;
+    width: 45%;
+    background: white;
+    padding: 1.5%;
+    margin: 1.5%;
+    box-shadow: 0 0 3px lightgrey;
+    border-radius: 10px;
+}
+
+.volunteerTitle {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.volunteerDate {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.volunteerTitleDate {
+    position: relative;
+    width: 100%;
+}
+
+.cancel-button {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 14px;
+    padding: 6px 15px;
+}

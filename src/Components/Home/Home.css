@@ -1,0 +1,35 @@
+.home {
+    background-color: #F8FAFC;
+}
+
+.headerText{
+    text-transform: uppercase;;
+}
+
+.searchInput {
+    padding: 7px 10px;
+    border: 1px solid #d4d4d4;
+    border-right: none;
+    border-radius: 8px;
+    font-size: 14px;
+    width: 300px;
+    outline: none;
+}
+
+.searchBtn {
+    font-size: 14px;
+    padding: 7px 10px;
+    position: relative;
+    left: -10px;
+    border-radius: 0 8px 8px 0;
+}
+
+.header {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.headerText {
+    font-size: 35px;
+    font-weight: 700;
+}

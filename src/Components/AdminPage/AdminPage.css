@@ -1,0 +1,113 @@
+.adminLogo {
+    width: 80%;
+    margin: 50px 0 30px 0;
+}
+
+.adminLeftSide {
+    width: 21%;
+    height: 100vh;
+    padding-left: 5%;
+    background: white;
+}
+
+.adminRightSide {
+    width: 80%;
+}
+
+.adminPageLogo {
+    width: 16px;
+    margin-right: 10px;
+}
+
+.volunteerRegisterList {
+    cursor: pointer;
+    margin-bottom: 20px !important;
+}
+
+.volunteerRegisterList:hover {
+    text-decoration: underline;
+}
+
+.volunteerRegisterListLink,
+.volunteerAddLink2 {
+    color: #007bff;
+}
+
+.volunteerRegisterListLink:hover,
+.volunteerAddLink2:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.volunteerAdd {
+    cursor: pointer;
+}
+
+.volunteerAdd:hover {
+    text-decoration: underline;
+}
+
+.volunteerAddLink,
+.volunteerRegisterListLink2 {
+    color: black;
+}
+
+.volunteerAddLink:hover,
+.volunteerRegisterListLink2:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.rightSideListText {
+    width: 100%;
+    background: white;
+    padding: 20px 40px;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.adminListSection {
+    background: white;
+    margin: 25px;
+    border-radius: 15px;
+    height: 600px;
+    padding: 15px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+th {
+    text-align: inherit;
+    font-size: 15px;
+    font-weight: 500;
+    color: #9a9a9a;
+    background: lightgray;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+.deleteIcon {
+    background: red;
+    width: 28px;
+    height: 28px;
+    border-radius: 5px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.deleteIcon:hover {
+    background: #bc4dff;
+}
+
+table {
+    width: 100%;
+}
+
+.emptyEvent {
+    height: 100vh;
+    text-align: center;
+    margin-top: 15%;
+}

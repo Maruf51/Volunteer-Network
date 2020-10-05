@@ -1,0 +1,26 @@
+.addEventInput {
+    width: 90%;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    color: tomato;
+    outline: none;
+}
+
+.addEventForm {
+    margin: 40px 40px 30px 30px;
+    width: 910px;
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+label {
+    display: block;
+}
+
+.addEventFormDiv {
+    width: 50%;
+    margin-bottom: 15px;
+}

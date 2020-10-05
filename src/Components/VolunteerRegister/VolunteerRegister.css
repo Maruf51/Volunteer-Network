@@ -1,0 +1,39 @@
+.register {
+
+}
+
+.registerForm {
+    border: 1px solid #cacaca;
+    width: 500px;
+    margin: auto;
+    height: 435px;
+    background-color: white;
+    box-shadow: 0 0 1px black;
+}
+
+.registerInput {
+    width: 80%;
+    padding: 0;
+    border: none;
+    border-bottom: 1px solid #cacaca;
+    margin-bottom: 25px;
+    outline: none;
+    font-size: 16px;
+    color: #ff5a3c;
+}
+
+.registerInput::placeholder {
+    color: #404040;
+}
+
+.registerText {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+    width: 80%;
+    margin: 30px auto 35px auto;
+}
+
+.registerBtn {
+    width: 80%;
+}

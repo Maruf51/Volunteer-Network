@@ -1,0 +1,50 @@
+
+
+.loginLogo {
+    height: 70px;
+    margin: 50px 0;
+}
+
+.loginArea {
+    border: 1px solid #cacaca;
+    width: 500px;
+    margin: auto;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 0 1px black;
+}
+
+.loginGoogle {
+    border: 1px solid gray;
+    width: 350px;
+    margin: auto;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    cursor: pointer;
+}
+
+.googleLogo {
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-left: 6px;
+}
+
+.googleText {
+    margin: auto;
+    font-weight: 600;
+}
+
+.loginWithText {
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.createAccountText {
+    font-size: 14px;
+    margin: 10px 0 0 0;
+    font-weight: 600;
+}

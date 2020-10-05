@@ -1,0 +1,32 @@
+/* .volunteerImage {
+    width: 100%;
+} */
+
+.volunteerName {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    margin: 0;
+    width: 100%;
+    height: 65px;
+    font-size: 20px;
+    display: grid;
+    align-items: center;
+    /* background-image: linear-gradient(rgb(0 0 0 / 47%), rgb(0 0 0 / 44%)); */
+    background: tomato;
+    border-radius: 0 0 10px 10px;
+    padding: 10px 0;
+}
+
+.volunteerBlock {
+    width: 244.199px;
+    height: 289.414px;
+    background-size: cover;
+    position: relative;
+    border-radius: 10px;
+}
+
+.volunteerBlock:hover {
+    box-shadow: 0 0 10px grey;
+    transition: .3s;
+}

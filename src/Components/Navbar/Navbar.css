@@ -1,0 +1,28 @@
+.logo{
+    height: 50px;
+}
+
+.loggedInUserName {
+    cursor: pointer;
+}
+
+.loggedInUserName:hover {
+    text-decoration: underline;
+}
+
+.userImage {
+    width: 40px;
+    border-radius: 50%;
+}
+
+.navbar {
+    z-index: 999;
+    background-color: #F8FAFC;
+}
+
+.navLink {
+    text-decoration: none;
+    background-color: transparent;
+    color: black;
+    margin: 0 15px;
+}
